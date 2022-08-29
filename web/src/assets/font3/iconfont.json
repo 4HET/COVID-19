@@ -1,0 +1,37 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "13073727",
+      "name": "疫情防控",
+      "font_class": "yiqingfangkong",
+      "unicode": "e70d",
+      "unicode_decimal": 59149
+    },
+    {
+      "icon_id": "13297230",
+      "name": "线性_疫情防控",
+      "font_class": "xianxing_yiqingfangkong",
+      "unicode": "e6c7",
+      "unicode_decimal": 59079
+    },
+    {
+      "icon_id": "26331188",
+      "name": "疫情态势",
+      "font_class": "yiqingtaishi",
+      "unicode": "e731",
+      "unicode_decimal": 59185
+    },
+    {
+      "icon_id": "28204660",
+      "name": "新冠疫情",
+      "font_class": "xgyq-2",
+      "unicode": "e504",
+      "unicode_decimal": 58628
+    }
+  ]
+}
